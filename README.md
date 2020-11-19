@@ -1,10 +1,10 @@
 # app-ideas-impl
 
-A Clojure library designed to ... well, that part is up to you.
+A Simple Implementation for app ideas from https://github.com/florinpop17/app-ideas.git.
 
 ## Usage
 
-FIXME
+Improving coding skills by implementing app ideas.
 
 ## License
 
