@@ -6,5 +6,6 @@
   :dependencies [
                  [org.clojure/clojure "1.10.1"]
                  [seesaw "1.5.0"]
+                 [clj-http/clj-http "3.11.0"]
                  ]
   :repl-options {:init-ns app-ideas-impl.core})
