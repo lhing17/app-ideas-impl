@@ -1,9 +1,7 @@
-(ns app-ideas-impl.christmas-lights.christmas-lights
+(ns app-ideas-impl.tier1.christmas-lights.christmas-lights
   (:require [seesaw.core :as gui]
-            [seesaw.graphics :as graph]
-            [seesaw.bind :as bind])
-  (:import (javax.swing JFrame JPanel)
-           (java.awt Color Graphics Graphics2D)))
+            [seesaw.graphics :as graph])
+  (:import (java.awt Color Graphics2D)))
 
 (def colors [Color/red Color/orange Color/yellow Color/green Color/cyan Color/blue (Color. 128 0 128)])
 (def mem (atom nil))

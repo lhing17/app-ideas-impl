@@ -1,4 +1,4 @@
-(ns app-ideas-impl.bin2dec.bin2dec)
+(ns app-ideas-impl.tier1.bin2dec.bin2dec)
 
 
 (defn binToDec [s]
